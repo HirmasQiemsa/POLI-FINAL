@@ -67,4 +67,4 @@ The Laravel 11 framework is open-sourced software licensed under the [MIT licens
 
 ## Instalasi
 
-Ekstrak terlebih dahulu public.rar, storage.rar, env.rar dan gabungkan vendor.rar menjadi satu file, jika sudah migrasi database php artisan migrate:fresh, optimize artisan, composer dump-autoload. jalankan xampp/laragon. pastikan PHP 8.2
+Ekstrak terlebih dahulu public.rar, storage.rar, env.rar dan gabungkan vendor.rar menjadi satu file, jika sudah migrasi database php artisan migrate:fresh, php artisan optimize, composer dump-autoload. jalankan xampp/laragon. pastikan PHP 8.2
